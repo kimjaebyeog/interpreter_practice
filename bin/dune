@@ -1,0 +1,6 @@
+(ocamllex myLexer)
+(ocamlyacc myParser)
+
+(executable
+ (public_name interpreter)
+ (name main))
