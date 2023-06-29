@@ -33,10 +33,10 @@ file-names 를 제공하면 해당 파일(들)의 실행 결과를 출력
 
 ## Examples
 type inference and let polymorphism<br>
-![type inference and let polymorphism](https://github.com/kimjaebyeog/interpreter_practice/assets/138166161/d60193d4-c6d9-4c26-b813-fc3f8451df8b)
+![type inference and let polymorphism](https://github.com/kimjaebyeog/interpreter_practice/assets/138166161/e228369f-2906-43b9-816a-6c6e285a33dd)
 
 lazy evaluation<br>
-![lazy evaluation](https://github.com/kimjaebyeog/interpreter_practice/assets/138166161/d91c84c7-ea74-48d7-b359-d33b54d6d204)
+![lazy evaluation](https://github.com/kimjaebyeog/interpreter_practice/assets/138166161/9cffa5bc-419b-45a4-a679-4c77bded301a)
 
 ## Syntax
 ```
